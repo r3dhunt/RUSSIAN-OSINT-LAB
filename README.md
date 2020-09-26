@@ -1,13 +1,8 @@
 # RUSSIAN-OSINT-LAB
-Кибербезопасность и OSINT
+Кибербезопасность и OSINT, рекомендации Сергея Рэдханта
 
 
 ![fa179b9d86c74ec7bbd2ac095f7ed4d7](https://user-images.githubusercontent.com/57009683/94335776-59e85b80-ffcd-11ea-9d83-69669b81ff73.jpeg)
-
-https://i.imgur.com/TNCJX2W.png
-
-
-
 
 **ЛАБОРАТОРИЯ КИБЕРБЕЗОПАСНОСТИ И OSINT**
 
@@ -102,21 +97,13 @@ https://www.youtube.com/c/peoplepro - Люди PRO, Сергей Павлови�
 https://www.youtube.com/c/ЧёрныйТреугольник - Чёрный Треугольник, канал про ИБ. анонимность и open-source
 https://www.youtube.com/channel/UCojEUrPvEvkUXEU3QWwhCwg - Pulse, делится лучшими практиками OSINT
 
+
+
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 ❤️**ЗАДОНАТИТЬ НА РАЗВИТИЕ КАНАЛА**  https://www.donationalerts.com/r/r3dhunt❤️
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-
-
-
-
-
-
-
-
-
-
 💥YouTube: https://www.youtube.com/c/RussianOSINT
 ☕️https://www.donationalerts.com/r/r3dhunt
-💌 russian_osint@ctemplar.com
-📲  https://t.me/russian_osint
-☎️ https://t.me/russian_osint_bot
+💌russian_osint@ctemplar.com
+📲https://t.me/russian_osint
+☎️https://t.me/russian_osint_bot
