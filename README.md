@@ -75,11 +75,17 @@ https://t.me/darknet_prison - админ обозревает интересны
 
 
 https://t.me/cepter_chat - чат Ареса, создателя Intercepter-NG, пожалуй лучший про MiTM
+
 https://t.me/secinfosec - чат СекИнфоСек, тут сидят специалисты ИБ, от вайтхэтов до блэкарей
+
 https://t.me/nitroteamchat - чат Батыржана, создатель бота @get_kontakt_bot, основатель NitroTeam в Казахстане
+
 https://t.me/DC7499 - чат Московского Дефкона, сидят хакеры и безопасники, много людей кто шарит в железяках
+
 https://t.me/ParrotSecRU - русский чат Parrot OS, дистрибутив для хакеров и безопасников 
+
 https://t.me/antidetectchat - чат Дмитрия Момота, VektorT13, можно узнать много нового про fingerprints и антидетект
+
 https://t.me/joinchat/CkZnXBRdlNpbuJ9SZt3bAA -чат Вани Пискунова про ИБ и карьеру, хорошее и здравое коммьюнити
 
 https://t.me/DebianRU - чат Debian/Linux
